@@ -1,4 +1,4 @@
-TeaCommerce
-===========
+Tea Commerce
+=====
 
-DIBS TeaCommerce
+This file will soon be updated with installation guide.

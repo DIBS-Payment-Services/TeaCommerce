@@ -1,0 +1,13 @@
+    <key alias="paymentProvider_DIBSpw_merchant">Merchant number</key>
+    <key alias="paymentProvider_DIBSpw_language">Language</key>
+    <key alias="paymentProvider_DIBSpw_acceptreturnurl">Accept URL&lt;br/&gt;&lt;small&gt;e.g. http://domain.com/continue.aspx&lt;/small&gt;</key>
+    <key alias="paymentProvider_DIBSpw_cancelreturnurl">Cancel URL&lt;br/&gt;&lt;small&gt;e.g. http://domain.com/cancel.aspx&lt;/small&gt;</key>
+    <key alias="paymentProvider_DIBSpw_method">Payment method&lt;br/&gt;&lt;small&gt;1 - Auto&lt;br/&gt;2 - Standart Payment Window&lt;br/&gt;3 - Mobile Payment Window&lt;/small&gt;</key>
+    <key alias="paymentProvider_DIBSpw_addfee">Customer payed fee</key>
+    <key alias="paymentProvider_DIBSpw_voucher">Vouchers</key>
+    <key alias="paymentProvider_DIBSpw_uniqueid">Unique orderId check</key>
+    <key alias="paymentProvider_DIBSpw_HMAC">HMAC</key>
+    <key alias="paymentProvider_DIBSpw_paytype">Paytype</key>
+    <key alias="paymentProvider_DIBSpw_test">Test mode</key>
+    <key alias="paymentProvider_DIBSpw_account">Account</key>
+    <key alias="paymentProvider_DIBSpw_distributionType">Distribution type</key>
